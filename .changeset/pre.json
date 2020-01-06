@@ -11,7 +11,19 @@
     "@xstate/scxml": "0.2.1",
     "@xstate/test": "0.1.0",
     "@xstate/viz": "0.1.0",
-    "@xstate/viz-example": "1.0.0"
+    "@xstate/viz-example": "1.0.0",
+    "@xstate/vue": "0.0.1"
   },
-  "changesets": []
+  "changesets": [
+    "eighty-coins-tease",
+    "fifty-pears-hammer",
+    "flat-avocados-beam",
+    "forty-news-wash",
+    "green-apes-heal",
+    "hot-parents-share",
+    "shy-walls-develop",
+    "silly-jeans-behave",
+    "sixty-hornets-allow",
+    "slow-apples-dance"
+  ]
 }
