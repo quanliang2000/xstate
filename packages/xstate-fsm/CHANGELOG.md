@@ -1,5 +1,15 @@
 # @xstate/fsm
 
+## 1.3.0
+
+### Minor Changes
+
+- 3c10215: A `config` property got exposed on created machines. It's the same object which got passed in as argument.
+
+### Patch Changes
+
+- a337473: Fixed entry actions defined on an initial state not being executed.
+
 ## 1.2.0
 
 ### Minor Changes
